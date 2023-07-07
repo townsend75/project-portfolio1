@@ -1,0 +1,15 @@
+#title {
+    color: rgb(220, 71, 13);
+    background-color: rgb(126, 194, 225);
+    height: 150px;
+    width: 100%;
+    font-size: 450%;
+    text-transform: capitalize;
+    text-shadow: coral;
+
+}
+
+#menu {
+    font-size: 150%;
+    float: right;
+}
